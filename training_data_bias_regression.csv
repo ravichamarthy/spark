@@ -1,0 +1,999 @@
+claim_id,customer_id,age,gender,incident_cause,days_to_incident,claim_area,police_report,claim_type,total_policy_claims,fraudulent,claim_amount
+22639991,53333796,46,Female,Other causes,5460,Auto,Yes,Material and injury,1,Yes,10113.79351
+2322078,51503228,33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,29392.1525
+85585944,9908654,45,Female,Other driver error,2468,Auto,No,Material only,1,Yes,19631.41226
+33038715,31901720,56,Female,Crime,1517,Auto,No,Material only,1,Yes,50254.26757
+23721504,33987747,23,Female,Driver error,202,Auto,No,Material and injury,1,Yes,71171.24771
+58245818,47091036,64,Female,Driver error,3801,Home,No,Injury only,1,Yes,6488.675143
+712628,74125758,40,Female,Other causes,1897,Auto,Unknown,Injury only,1,No,63665.1686
+47783756,8132649,18,Female,Other driver error,3,Auto,No,Material only,1,Yes,19357.11406
+70399158,26489135,70,Female,Driver error,1859,Auto,No,Material only,1,Yes,18774.89731
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,56134.30537
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,32006.04289
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,17273.48103
+86624774,97640137,71,Female,Driver error,6117,Auto,Unknown,Injury only,1,No,902.9890279
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,No,9953.09151
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,No,14081.78025
+88126193,16836323,49,Female,Crime,6550,Auto,No,Material only,4,Yes,10333.18675
+34488157,32561536,44,Female,Natural causes,891,Auto,No,Material and injury,1,Yes,5722.181313
+73460630,87993949,77,Female,Other causes,3,Auto,Unknown,Injury only,2,No,97503.72506
+43899763,37312925,75,Female,Driver error,8260,Auto,Yes,Injury only,1,No,9834.231732
+42920871,85984961,25,Male,Natural causes,6,Auto,Unknown,Material only,1,Yes,67023.35097
+64573390,85650096,49,Female,Crime,7447,Auto,No,Material only,1,Yes,24508.0605
+13167216,27205554,40,Female,Driver error,441,Auto,No,Injury only,1,No,46939.06173
+19333178,16102401,27,Female,Driver error,491,Home,Yes,Material only,1,Yes,20780.9161
+35407789,47228798,28,Female,Crime,1045,Auto,Unknown,Material only,1,Yes,19829.92313
+65335959,61810954,30,Female,Other driver error,7,Auto,Unknown,Material and injury,1,No,89814.31068
+75262517,68724425,54,Female,Natural causes,4124,Auto,No,Material only,3,No,20821.52369
+87452238,88191021,64,Female,Driver error,2603,Auto,Yes,Material only,1,Yes,10567.2806
+13578273,34790013,49,Female,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,11086.31769
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,Yes,13039.28373
+83092374,86301193,18,Male,Driver error,4,Home,No,Material and injury,1,Yes,5542.742381
+52976799,64270813,77,Male,Other driver error,8246,Auto,Unknown,Material only,1,Yes,5120.267542
+76552623,56590042,54,Female,Other causes,1600,Auto,No,Injury only,4,Yes,5923.839692
+39128289,72896975,33,Female,Other driver error,389,Auto,Unknown,Material and injury,1,No,64082.45124
+11951632,91462331,32,Female,Driver error,7,Auto,Unknown,Material and injury,1,No,36998.61858
+14836805,75252854,39,Female,Other driver error,191,Auto,Yes,Injury only,1,No,80452.59181
+21550521,68772500,67,Female,Driver error,10991,Auto,Unknown,Material only,1,Yes,62514.81587
+91841652,16811546,40,Female,Crime,181,Auto,Unknown,Injury only,1,No,31188.60411
+18636027,25823839,64,Female,Driver error,2791,Auto,Unknown,Injury only,1,Yes,62867.58023
+39131766,39587790,68,Female,Other causes,3310,Auto,No,Material only,1,Yes,10282.21726
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,No,4265.510188
+95376481,84734050,36,Female,Crime,2363,Auto,Unknown,Material only,1,No,71112.20276
+2181243,51349085,59,Female,Crime,2572,Auto,No,Material only,2,Yes,17630.66656
+90714815,32180678,27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,21575.45954
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,6719.922336
+88815908,48477164,18,Male,Driver error,2,Home,Unknown,Material and injury,4,Yes,8890.746021
+25647821,74155265,74,Female,Natural causes,10789,Auto,No,Material only,1,Yes,1950.169744
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,Yes,42298.0226
+23504103,62797342,42,Female,Other driver error,1487,Auto,Unknown,Material and injury,1,No,15444.50911
+87229793,44319192,37,Female,Other causes,2750,Auto,Yes,Material and injury,1,No,70276.24645
+71464126,87386746,72,Female,Other causes,4515,Auto,No,Material only,1,Yes,75426.06243
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,9227.995954
+51685791,90202451,36,Female,Other driver error,2456,Auto,No,Material only,1,No,79825.94614
+82144259,92752865,72,Female,Driver error,2855,Auto,No,Injury only,1,No,21546.81673
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,69828.31786
+97484739,21066098,58,Male,Crime,8285,Auto,No,Material only,1,Yes,94174.64154
+84863978,90116906,78,Female,Driver error,3268,Auto,No,Injury only,6,Yes,10846.67531
+73138939,57510487,69,Female,Driver error,5146,Auto,No,Material only,1,Yes,2430.438388
+90504501,39495715,18,Female,Driver error,7,Auto,No,Material only,1,Yes,8132.23982
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,Yes,16757.79731
+2040094,49270602,73,Female,Other causes,5728,Auto,No,Material only,1,Yes,17522.81504
+2893823,47565478,49,Male,Natural causes,1089,Auto,No,Material only,1,No,54453.8674
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,12748.90863
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,21246.43351
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,51280.20993
+43973221,83290720,75,Female,Driver error,5708,Auto,Yes,Material and injury,1,Yes,29340.18091
+56330110,26168099,57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,18928.61886
+44561119,83706741,41,Male,Crime,2120,Auto,Yes,Material only,1,Yes,17114.794
+99427250,91546921,76,Female,Crime,4843,Home,No,Material only,1,No,58217.45028
+8405500,46620413,67,Female,Other causes,4551,Auto,Unknown,Material only,1,Yes,10453.72609
+95352573,9089663,37,Female,Other driver error,2930,Auto,No,Material and injury,1,No,78993.70856
+99210077,95221640,45,Female,Crime,1470,Auto,No,Material only,1,Yes,5635.267089
+42530425,46129941,29,Male,Crime,1274,Auto,No,Material only,8,Yes,12328.39249
+1633198,55180831,69,Female,Other driver error,2847,Auto,No,Material and injury,1,No,12642.15582
+21972507,83088652,21,Female,Driver error,198,Auto,Unknown,Material only,1,Yes,10078.3754
+95712960,51525336,27,Male,Other causes,420,Auto,Unknown,Injury only,1,Yes,73462.81649
+27638017,56075921,45,Male,Other driver error,4031,Auto,No,Material only,4,Yes,40064.33556
+69101899,35907845,66,Female,Crime,10163,Auto,Unknown,Material and injury,1,Yes,9104.25382
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,No,21885.75632
+66703144,45653187,28,Female,Natural causes,203,Home,No,Material only,1,Yes,17540.27224
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,Yes,9723.786018
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,5418.331798
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,576.4353722
+50337100,15036122,54,Female,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,3246.472233
+7883163,50817031,44,Female,Crime,3934,Auto,Unknown,Material only,1,Yes,3562.987869
+84635473,74058124,71,Female,Driver error,5435,Auto,Unknown,Injury only,1,Yes,93347.22505
+73894966,28307541,36,Female,Driver error,420,Auto,No,Material only,1,No,50259.10159
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,7571.312751
+64731876,43870673,40,Female,Other causes,2293,Auto,Unknown,Material only,1,No,82292.1844
+3673097,54642094,79,Female,Driver error,5075,Auto,No,Injury only,1,Yes,12774.45677
+5481268,76422302,73,Female,Crime,1475,Home,No,Material only,1,No,19648.55371
+19132019,14275512,38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,38275.35977
+33643946,88277241,24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,71158.89338
+65264955,72556809,73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,829.6353104
+1886311,59046302,33,Female,Driver error,1737,Auto,No,Material only,6,No,35310.977
+66546485,83884401,56,Female,Driver error,1544,Auto,No,Material only,1,Yes,8075.348059
+54192772,61051505,45,Female,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,19345.56095
+48203523,82832313,51,Female,Other driver error,1798,Auto,Yes,Injury only,1,Yes,22846.61006
+20332975,51936868,75,Female,Natural causes,4889,Auto,No,Material only,1,No,52070.64277
+39128289,72896975,33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,75953.9381
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,No,15361.89504
+82144259,92752865,72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,16691.7166
+69101899,35907845,66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,22583.09766
+2322078,51503228,33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,43674.54273
+19132019,14275512,38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,30780.25352
+11951632,91462331,32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,42786.99199
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,No,17949.02929
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,8990.060526
+99210077,95221640,45,Male,Crime,1470,Auto,No,Material only,1,Yes,82920.52531
+8405500,46620413,67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,9718.643451
+73460630,87993949,77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,31657.15754
+33038715,31901720,56,Male,Crime,1517,Auto,No,Material only,1,Yes,21992.34574
+88815908,48477164,18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,20027.14139
+64731876,43870673,40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,35065.91513
+2181243,51349085,59,Male,Crime,2572,Auto,No,Material only,2,Yes,2029.627613
+95376481,84734050,36,Male,Crime,2363,Auto,Unknown,Material only,1,No,43080.62395
+35407789,47228798,28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,155.9406911
+84635473,74058124,71,Male,Driver error,5435,Auto,Unknown,Injury only,1,No,90899.82958
+43899763,37312925,75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,19862.83008
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,No,12701.24682
+2040094,49270602,73,Male,Other causes,5728,Auto,No,Material only,1,Yes,4721.182021
+21550521,68772500,67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,5393.604175
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,16055.3116
+3673097,54642094,79,Male,Driver error,5075,Auto,No,Injury only,1,No,952.3996482
+87452238,88191021,64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,17073.20038
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,20173.34377
+27638017,56075921,45,Female,Other driver error,4031,Auto,No,Material only,4,No,12277.97312
+34488157,32561536,44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,5894.174694
+56330110,26168099,57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,34034.5143
+88126193,16836323,49,Male,Crime,6550,Auto,No,Material only,4,Yes,12932.41164
+14836805,75252854,39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,39509.14295
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,22314.91994
+712628,74125758,40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,83852.90412
+84863978,90116906,78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,19985.18883
+73138939,57510487,69,Male,Driver error,5146,Auto,No,Material only,1,Yes,4209.534627
+91841652,16811546,40,Male,Crime,181,Auto,Unknown,Injury only,1,No,38204.87577
+25647821,74155265,74,Male,Natural causes,10789,Auto,No,Material only,1,No,45037.26759
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,13362.48204
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,No,12433.02443
+86624774,97640137,71,Male,Driver error,6117,Auto,Unknown,Injury only,1,No,56503.85823
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,20538.91148
+76552623,56590042,54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,46344.56866
+51685791,90202451,36,Male,Other driver error,2456,Auto,No,Material only,1,No,76463.50477
+65335959,61810954,30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,32491.12133
+22639991,53333796,46,Male,Other causes,5460,Auto,Yes,Material and injury,1,Yes,23647.06521
+90504501,39495715,18,Male,Driver error,7,Auto,No,Material only,1,Yes,16920.29581
+95352573,9089663,37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,48950.58852
+19333178,16102401,27,Male,Driver error,491,Home,Yes,Material only,1,Yes,3158.829253
+18636027,25823839,64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,20294.48004
+70399158,26489135,70,Male,Driver error,1859,Auto,No,Material only,1,Yes,15911.39843
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,78276.95921
+39131766,39587790,68,Male,Other causes,3310,Auto,No,Material only,1,Yes,11259.33728
+99427250,91546921,76,Male,Crime,4843,Home,No,Material only,1,Yes,11806.84296
+83092374,86301193,18,Female,Driver error,4,Home,No,Material and injury,1,Yes,23271.27445
+7883163,50817031,44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,24828.79477
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,90568.34247
+1633198,55180831,69,Male,Other driver error,2847,Auto,No,Material and injury,1,No,31340.67873
+42530425,46129941,29,Female,Crime,1274,Auto,No,Material only,8,Yes,18412.78283
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,67290.71886
+54192772,61051505,45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,7894.165875
+64573390,85650096,49,Male,Crime,7447,Auto,No,Material only,1,Yes,11230.051
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,8361.491186
+73894966,28307541,36,Male,Driver error,420,Auto,No,Material only,1,No,51932.17124
+23721504,33987747,23,Male,Driver error,202,Auto,No,Material and injury,1,No,7328.861994
+50337100,15036122,54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,5726.440354
+95712960,51525336,27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,1150.559236
+13167216,27205554,40,Male,Driver error,441,Auto,No,Injury only,1,No,81478.38906
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,20820.04592
+83744906,48277275,44,Male,Other driver error,4191,Auto,No,Material and injury,1,Yes,30192.33912
+58245818,47091036,64,Male,Driver error,3801,Home,No,Injury only,1,Yes,1296.535943
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,14712.04375
+87229793,44319192,37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,89419.6571
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,3783.49866
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,19890.95549
+21972507,83088652,21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,10044.0843
+66546485,83884401,56,Male,Driver error,1544,Auto,No,Material only,1,Yes,22744.86479
+42920871,85984961,25,Female,Natural causes,6,Auto,Unknown,Material only,1,Yes,96718.68848
+44561119,83706741,41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,26794.96439
+97484739,21066098,58,Female,Crime,8285,Auto,No,Material only,1,Yes,19845.67778
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,16563.54524
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,24512.66289
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,58473.93033
+43973221,83290720,75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,5426.388676
+48203523,82832313,51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,12600.45135
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,862.1044611
+13578273,34790013,49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,8882.154645
+20332975,51936868,75,Male,Natural causes,4889,Auto,No,Material only,1,No,88038.78543
+47783756,8132649,18,Male,Other driver error,3,Auto,No,Material only,1,Yes,10580.12059
+5481268,76422302,73,Male,Crime,1475,Home,No,Material only,1,Yes,18387.36598
+1886311,59046302,33,Male,Driver error,1737,Auto,No,Material only,6,No,40483.84072
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,17328.79956
+85585944,9908654,45,Male,Other driver error,2468,Auto,No,Material only,1,Yes,84019.44226
+23504103,62797342,42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,No,8390.903208
+91210035,48447568,38,Male,Driver error,2987,Auto,No,Material and injury,1,No,51899.62961
+52976799,64270813,77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,9539.759043
+75262517,68724425,54,Male,Natural causes,4124,Auto,No,Material only,3,No,1818.203328
+2893823,47565478,49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,28833.34376
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,11506.58254
+90714815,32180678,27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,22608.64299
+21550521,68772500,67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,14750.02238
+18636027,25823839,64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,9493.470895
+91841652,16811546,40,Male,Crime,181,Auto,Unknown,Injury only,1,No,59074.64547
+19333178,16102401,27,Male,Driver error,491,Home,Yes,Material only,1,No,15371.15247
+91210035,48447568,38,Male,Driver error,2987,Auto,No,Material and injury,1,No,57508.13205
+90504501,39495715,18,Male,Driver error,7,Auto,No,Material only,1,Yes,24781.30333
+2322078,51503228,33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,88750.78563
+2040094,49270602,73,Male,Other causes,5728,Auto,No,Material only,1,Yes,5137.809426
+86624774,97640137,71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,1243.750587
+19132019,14275512,38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,86427.15283
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,Yes,35269.58854
+88126193,16836323,49,Male,Crime,6550,Auto,No,Material only,4,Yes,16118.09592
+7883163,50817031,44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,5095.637214
+56330110,26168099,57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,1879.567496
+90714815,32180678,27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,21581.20186
+25647821,74155265,74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,1541.294311
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,Yes,55780.02831
+75262517,68724425,54,Male,Natural causes,4124,Auto,No,Material only,3,No,24100.29218
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,No,12807.7031
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,No,21204.48096
+5567470,14860484,44,Male,Other causes,3210,Auto,Unknown,Injury only,4,Yes,22160.51764
+30119116,31289360,27,Male,Other driver error,426,Auto,No,Material only,1,Yes,3701.757305
+50617945,76965994,44,Male,Crime,2268,Auto,No,Material only,1,Yes,6552.347668
+30930636,30722342,32,Male,Driver error,748,Home,Yes,Injury only,5,No,52688.00437
+26716331,3159546,66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,52990.46523
+48559754,45539668,72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,1696.377535
+66578763,2327487,36,Male,Driver error,3094,Auto,No,Material only,5,No,68644.55275
+67042203,65950591,48,Male,Driver error,3404,Auto,No,Material only,1,Yes,12514.88959
+74738945,88449349,31,Male,Other causes,712,Auto,No,Material only,1,No,95868.37887
+45189268,24826170,79,Male,Driver error,1793,Auto,No,Material only,1,Yes,22731.50184
+30488859,48145469,25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,68695.04834
+1657284,41265642,52,Male,Crime,72,Auto,No,Material only,1,Yes,57577.75556
+54506772,93291407,41,Male,Other driver error,821,Auto,Unknown,Material only,1,No,24279.43692
+32116508,65728108,56,Male,Other causes,3509,Auto,Unknown,Material and injury,3,Yes,13498.87763
+7316148,15556454,33,Male,Crime,2156,Auto,No,Material only,1,No,95106.79661
+4112041,58402401,36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,65897.62627
+44581152,86993944,36,Male,Other driver error,4828,Auto,Unknown,Injury only,1,No,37518.01962
+52959888,25709472,24,Male,Other driver error,251,Auto,Unknown,Injury only,1,Yes,16562.1342
+35026470,61497833,61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,13802.24895
+11618238,96710523,36,Male,Other causes,102,Home,Yes,Injury only,1,No,47233.64136
+34488157,32561536,44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,11510.01817
+84863978,90116906,78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,24909.93365
+48203523,82832313,51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,1752.584172
+73460630,87993949,77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,13936.88248
+43899763,37312925,75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,15423.56332
+65335959,61810954,30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,69214.91815
+33038715,31901720,56,Male,Crime,1517,Auto,No,Material only,1,Yes,19566.1344
+23721504,33987747,23,Male,Driver error,202,Auto,No,Material and injury,1,Yes,49075.76807
+39131766,39587790,68,Male,Other causes,3310,Auto,No,Material only,1,Yes,41244.51792
+8405500,46620413,67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,14696.97727
+1633198,55180831,69,Male,Other driver error,2847,Auto,No,Material and injury,1,Yes,42501.46932
+39128289,72896975,33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,51699.00402
+712628,74125758,40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,66145.04766
+64731876,43870673,40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,66934.11248
+76552623,56590042,54,Male,Other causes,1600,Auto,No,Injury only,4,No,3294.015815
+2181243,51349085,59,Male,Crime,2572,Auto,No,Material only,2,Yes,16282.09874
+51685791,90202451,36,Male,Other driver error,2456,Auto,No,Material only,1,No,33226.23909
+82144259,92752865,72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,1903.527471
+64573390,85650096,49,Male,Crime,7447,Auto,No,Material only,1,Yes,98597.77276
+95376481,84734050,36,Male,Crime,2363,Auto,Unknown,Material only,1,No,79146.64807
+69101899,35907845,66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,14758.75496
+11951632,91462331,32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,44003.59624
+1886311,59046302,33,Male,Driver error,1737,Auto,No,Material only,6,No,71511.44514
+50337100,15036122,54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,72610.77445
+87452238,88191021,64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,18006.29242
+66546485,83884401,56,Male,Driver error,1544,Auto,No,Material only,1,Yes,15882.42793
+35407789,47228798,28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,13816.23627
+99210077,95221640,45,Male,Crime,1470,Auto,No,Material only,1,Yes,8630.277092
+85585944,9908654,45,Male,Other driver error,2468,Auto,No,Material only,1,No,20132.62916
+84635473,74058124,71,Male,Driver error,5435,Auto,Unknown,Injury only,1,Yes,70904.50498
+87229793,44319192,37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,78187.27988
+54192772,61051505,45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,16370.20932
+95352573,9089663,37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,54771.20932
+43973221,83290720,75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,5702.468164
+47783756,8132649,18,Male,Other driver error,3,Auto,No,Material only,1,Yes,47621.7564
+73138939,57510487,69,Male,Driver error,5146,Auto,No,Material only,1,Yes,17345.97223
+14836805,75252854,39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,73549.49651
+23504103,62797342,42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,No,11068.93893
+21972507,83088652,21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,16619.7207
+20332975,51936868,75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,21167.82741
+13578273,34790013,49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,No,1541.381888
+3673097,54642094,79,Male,Driver error,5075,Auto,No,Injury only,1,Yes,15009.68852
+73894966,28307541,36,Male,Driver error,420,Auto,No,Material only,1,No,89198.25312
+83744906,48277275,44,Male,Other driver error,4191,Auto,No,Material and injury,1,Yes,16819.98613
+22639991,53333796,46,Male,Other causes,5460,Auto,Yes,Material and injury,1,Yes,15022.69698
+58245818,47091036,64,Male,Driver error,3801,Home,No,Injury only,1,Yes,10866.75325
+5481268,76422302,73,Male,Crime,1475,Home,No,Material only,1,Yes,9693.218573
+99427250,91546921,76,Male,Crime,4843,Home,No,Material only,1,Yes,2827.665542
+70399158,26489135,70,Male,Driver error,1859,Auto,No,Material only,1,Yes,15646.66606
+13167216,27205554,40,Male,Driver error,441,Auto,No,Injury only,1,No,25717.05697
+8782253,1924109,41,Male,Driver error,4,Auto,No,Material only,1,Yes,5421.607599
+18210740,80379865,66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,8844.536712
+22215431,64899302,22,Male,Other driver error,349,Auto,No,Material only,1,Yes,15903.57244
+10738822,11278282,35,Male,Natural causes,1410,Auto,No,Material only,1,No,71797.40214
+7800059,90425966,42,Male,Driver error,1678,Auto,No,Material only,1,Yes,7492.909382
+46956597,10665308,34,Male,Natural causes,911,Auto,No,Material only,1,No,36665.91476
+54764639,35876516,62,Male,Driver error,2199,Auto,No,Material only,1,Yes,43700.15952
+71088680,32155446,70,Male,Driver error,2513,Auto,No,Material and injury,4,No,2194.186402
+7809917,63916778,55,Male,Other causes,5444,Auto,No,Injury only,1,Yes,18820.59147
+17910612,90012444,62,Male,Other driver error,2060,Auto,No,Material only,1,Yes,51823.37691
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,2354.361435
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,48199.02256
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,9138.904282
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,85749.02589
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,10957.70654
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,29345.39973
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,1175.53205
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,71726.87795
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,23542.7162
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,23556.05547
+86285484,28871739,18,Male,Other causes,4,Auto,No,Material only,1,Yes,2006.684709
+98646052,65916260,36,Male,Other driver error,2396,Auto,No,Material only,1,No,33901.63107
+37305754,99761663,29,Male,Natural causes,801,Auto,No,Material only,1,Yes,25886.95731
+7883163,50817031,44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,11651.39182
+3366766,47535244,18,Male,Natural causes,5,Auto,No,Material only,1,Yes,6756.080609
+61900903,16444738,55,Male,Other causes,2972,Auto,No,Material only,1,Yes,24667.89384
+1624094,97856694,27,Male,Natural causes,289,Auto,Unknown,Material only,1,Yes,3090.912096
+37727681,77436411,38,Male,Other driver error,2144,Auto,Unknown,Material only,4,No,57554.3917
+37692448,44632301,29,Male,Other driver error,2221,Auto,Yes,Injury only,1,Yes,21645.49777
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,22992.65164
+34947297,73898057,25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,2979.577676
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,67975.59423
+9075822,25164999,69,Male,Other driver error,6677,Auto,No,Material only,1,Yes,14251.15598
+24709692,69010101,41,Male,Natural causes,2894,Auto,Unknown,Material only,1,Yes,5278.634054
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,Yes,22784.75533
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,12864.82522
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,21357.3221
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,17045.60352
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,No,27840.77159
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,21125.63129
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,11202.34838
+56330110,26168099,57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,10127.21593
+35976362,25582668,22,Male,Natural causes,213,Auto,No,Material only,1,Yes,24481.60033
+6794881,42345842,18,Male,Other causes,5,Auto,Unknown,Material only,1,Yes,11253.10629
+94242984,69065193,39,Male,Other driver error,9,Auto,Unknown,Material and injury,4,No,98768.06322
+3311108,49481916,67,Male,Other causes,3890,Auto,No,Material only,2,Yes,576.625426
+7292900,58957713,39,Male,Other causes,4325,Auto,No,Material only,1,No,56221.05002
+2893823,47565478,49,Male,Natural causes,1089,Auto,No,Material only,1,No,15286.19736
+50906515,1123356,67,Male,Crime,4789,Auto,No,Material only,5,Yes,19959.20345
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,Yes,13988.82175
+42530425,46129941,29,Male,Crime,1274,Auto,No,Material only,8,Yes,23204.10461
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,Yes,22527.5698
+1374365,96431710,19,Male,Crime,8,Auto,No,Material and injury,1,Yes,22192.82112
+84029944,51719336,43,Male,Other causes,2509,Home,Unknown,Material only,1,Yes,9854.811391
+19132019,14275512,38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,54536.85494
+27638017,56075921,45,Male,Other driver error,4031,Auto,No,Material only,4,Yes,7430.096949
+18636027,25823839,64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,72872.66015
+52976799,64270813,77,Male,Other driver error,8246,Auto,Unknown,Material only,1,Yes,24912.8862
+2980099,28901669,37,Male,Crime,2154,Auto,Yes,Injury only,1,No,94741.11754
+69348631,154557,33,Male,Driver error,3,Auto,No,Injury only,1,No,41336.76762
+18700750,86024944,39,Male,Other driver error,714,Auto,Unknown,Material and injury,2,No,29562.12446
+56133273,84229777,67,Male,Natural causes,10652,Auto,No,Material only,1,No,14567.05113
+57876931,5956033,50,Male,Other driver error,4003,Auto,No,Material and injury,1,No,12659.95198
+61170397,7946799,40,Male,Other causes,4081,Auto,Unknown,Material and injury,5,No,88395.42824
+8499165,55593844,43,Male,Other causes,2576,Auto,No,Material only,1,Yes,4689.970837
+79953107,73456835,39,Male,Other driver error,685,Auto,No,Material only,1,No,71042.45224
+14730852,49428676,72,Male,Other causes,6447,Auto,No,Material and injury,1,Yes,207.9418496
+97484739,21066098,58,Male,Crime,8285,Auto,No,Material only,1,Yes,16619.30959
+95712960,51525336,27,Male,Other causes,420,Auto,Unknown,Injury only,1,Yes,8039.004481
+38416376,96134505,69,Male,Other driver error,5538,Auto,No,Injury only,1,Yes,24223.2398
+42920871,85984961,25,Male,Natural causes,6,Auto,Unknown,Material only,1,Yes,23239.98095
+44561119,83706741,41,Male,Crime,2120,Auto,Yes,Material only,1,Yes,4172.395747
+51587897,9130038,24,Male,Natural causes,64,Auto,No,Material only,1,Yes,24110.17827
+2228834,80562391,22,Male,Crime,103,Auto,Unknown,Material only,1,Yes,16801.63539
+18824405,42882285,43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,20935.60184
+9588683,36632227,52,Male,Other driver error,1396,Auto,Unknown,Material only,1,Yes,16638.53458
+25108581,91786228,38,Male,Other driver error,546,Auto,No,Material only,1,No,32481.91334
+9961723,14293434,19,Male,Other driver error,4,Home,No,Material and injury,1,Yes,1875.430839
+75728799,71404791,32,Male,Other driver error,1532,Auto,No,Material only,3,No,26396.95911
+74165873,99103685,44,Male,Other driver error,1099,Home,No,Material only,1,Yes,24374.59778
+19333178,16102401,27,Male,Driver error,491,Home,Yes,Material only,1,Yes,30284.3976
+91841652,16811546,40,Male,Crime,181,Auto,Unknown,Injury only,1,No,63081.94783
+53522022,30308357,27,Male,Other driver error,4,Auto,No,Material only,1,Yes,56580.62011
+16773361,70459181,38,Male,Other driver error,2778,Auto,No,Material only,1,No,90878.00494
+63246959,33507197,54,Male,Crime,2922,Auto,No,Material only,2,Yes,21351.98286
+96749077,84571128,41,Male,Natural causes,955,Auto,No,Material only,1,No,12974.38234
+88815908,48477164,18,Male,Driver error,2,Home,Unknown,Material and injury,4,Yes,15888.30038
+76523655,95452498,41,Male,Other causes,896,Auto,No,Material only,1,Yes,29849.16933
+91210035,48447568,38,Male,Driver error,2987,Auto,No,Material and injury,1,No,85941.28214
+28636278,31012778,65,Male,Other causes,1196,Auto,No,Material only,5,Yes,6025.882596
+39647651,18361978,73,Male,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,20289.8671
+92426104,40971431,30,Male,Other causes,782,Auto,No,Material and injury,1,No,56875.31022
+2322078,51503228,33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,43361.89068
+57560277,92889077,51,Male,Natural causes,2893,Home,No,Material only,5,Yes,780.0976538
+39063220,12108789,42,Male,Other causes,1162,Auto,Yes,Material and injury,1,Yes,16476.76748
+9129053,85250389,36,Male,Other driver error,323,Auto,Unknown,Injury only,1,No,96154.838
+76762783,41673539,43,Male,Crime,1552,Auto,Yes,Material and injury,1,Yes,3973.675569
+21550521,68772500,67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,8804.367987
+39518274,91180828,28,Male,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,65457.15338
+86624774,97640137,71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,20585.24795
+89824066,41009394,70,Male,Other causes,3791,Auto,No,Material only,4,No,23285.31047
+25647821,74155265,74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,7335.917864
+61950339,21969808,62,Male,Natural causes,3329,Auto,No,Material only,1,Yes,3180.93194
+90714815,32180678,27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,10177.30751
+2040094,49270602,73,Male,Other causes,5728,Auto,No,Material only,1,Yes,19091.06956
+75262517,68724425,54,Male,Natural causes,4124,Auto,No,Material only,3,Yes,9359.937228
+30691877,53225913,31,Male,Crime,2273,Auto,No,Material only,2,No,69534.27315
+88126193,16836323,49,Male,Crime,6550,Auto,No,Material only,4,Yes,7985.362548
+30272514,12112711,23,Male,Other driver error,3,Auto,No,Material only,1,Yes,92890.53642
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,Yes,7733.018074
+16468239,86621072,23,Male,Other causes,6,Auto,No,Material only,1,Yes,90348.18363
+16286241,42098367,29,Male,Other causes,394,Auto,Unknown,Material and injury,1,Yes,24892.67716
+94690483,6723724,25,Male,Natural causes,447,Auto,Unknown,Material only,1,Yes,97966.23399
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,19058.99578
+22476903,40460125,51,Male,Other causes,3070,Auto,No,Material only,1,Yes,3424.5464
+99281527,32464636,49,Male,Driver error,2468,Auto,No,Material only,1,No,26975.32297
+90504501,39495715,18,Male,Driver error,7,Auto,No,Material only,1,Yes,21290.68258
+83092374,86301193,18,Male,Driver error,4,Home,No,Material and injury,1,Yes,345.4778624
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,Yes,92221.65906
+72074471,73383008,29,Male,Other driver error,619,Auto,Unknown,Injury only,1,Yes,10484.58014
+51587897,9130038,24,Female,Natural causes,64,Auto,No,Material only,1,Yes,24308.24069
+91210035,48447568,38,Female,Driver error,2987,Auto,No,Material and injury,1,No,27647.8665
+91841652,16811546,40,Female,Crime,181,Auto,Unknown,Injury only,1,No,67388.60696
+96749077,84571128,41,Female,Natural causes,955,Auto,No,Material only,1,Yes,24631.00028
+76523655,95452498,41,Female,Other causes,896,Auto,No,Material only,1,Yes,11095.07448
+28636278,31012778,65,Female,Other causes,1196,Auto,No,Material only,5,No,11066.87534
+61900903,16444738,55,Female,Other causes,2972,Auto,No,Material only,1,Yes,8712.591764
+74165873,99103685,44,Female,Other driver error,1099,Home,No,Material only,1,Yes,15184.49001
+2040094,49270602,73,Female,Other causes,5728,Auto,No,Material only,1,Yes,10080.67577
+3311108,49481916,67,Female,Other causes,3890,Auto,No,Material only,2,No,8355.067889
+9075822,25164999,69,Female,Other driver error,6677,Auto,No,Material only,1,Yes,8895.759435
+1374365,96431710,19,Female,Crime,8,Auto,No,Material and injury,1,Yes,86719.11046
+63246959,33507197,54,Female,Crime,2922,Auto,No,Material only,2,Yes,44158.54617
+7292900,58957713,39,Female,Other causes,4325,Auto,No,Material only,1,No,53207.77201
+61950339,21969808,62,Female,Natural causes,3329,Auto,No,Material only,1,Yes,84882.58936
+9129053,85250389,36,Female,Other driver error,323,Auto,Unknown,Injury only,1,No,90826.38033
+37692448,44632301,29,Female,Other driver error,2221,Auto,Yes,Injury only,1,Yes,22953.19519
+22476903,40460125,51,Female,Other causes,3070,Auto,No,Material only,1,Yes,2352.433352
+99281527,32464636,49,Female,Driver error,2468,Auto,No,Material only,1,Yes,12371.30708
+1624094,97856694,27,Female,Natural causes,289,Auto,Unknown,Material only,1,No,31197.90323
+75728799,71404791,32,Female,Other driver error,1532,Auto,No,Material only,3,No,77995.60592
+92426104,40971431,30,Female,Other causes,782,Auto,No,Material and injury,1,No,49060.99189
+2980099,28901669,37,Female,Crime,2154,Auto,Yes,Injury only,1,No,54971.5121
+24709692,69010101,41,Female,Natural causes,2894,Auto,Unknown,Material only,1,Yes,23962.51394
+30691877,53225913,31,Female,Crime,2273,Auto,No,Material only,2,No,57143.82884
+57560277,92889077,51,Female,Natural causes,2893,Home,No,Material only,5,Yes,4650.8416
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,24923.29965
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,15922.26296
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,18135.78133
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,No,24976.00048
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,No,5388.596715
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,89391.77107
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,56248.25577
+8499165,55593844,43,Female,Other causes,2576,Auto,No,Material only,1,Yes,6954.225707
+88815908,48477164,18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,53392.65584
+72074471,73383008,29,Female,Other driver error,619,Auto,Unknown,Injury only,1,Yes,1100.322486
+38416376,96134505,69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,10429.04798
+95712960,51525336,27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,18843.91977
+42920871,85984961,25,Female,Natural causes,6,Auto,Unknown,Material only,1,Yes,8898.514775
+97484739,21066098,58,Female,Crime,8285,Auto,No,Material only,1,Yes,24683.76823
+83092374,86301193,18,Female,Driver error,4,Home,No,Material and injury,1,Yes,65057.30957
+42530425,46129941,29,Female,Crime,1274,Auto,No,Material only,8,Yes,24344.21615
+34947297,73898057,25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,17607.46666
+86285484,28871739,18,Female,Other causes,4,Auto,No,Material only,1,Yes,12678.1093
+98646052,65916260,36,Female,Other driver error,2396,Auto,No,Material only,1,No,67821.00804
+39063220,12108789,42,Female,Other causes,1162,Auto,Yes,Material and injury,1,Yes,63377.4293
+35976362,25582668,22,Female,Natural causes,213,Auto,No,Material only,1,No,5463.301354
+76762783,41673539,43,Female,Crime,1552,Auto,Yes,Material and injury,1,Yes,18755.11224
+30272514,12112711,23,Female,Other driver error,3,Auto,No,Material only,1,Yes,23550.50177
+16468239,86621072,23,Female,Other causes,6,Auto,No,Material only,1,Yes,18068.57421
+39518274,91180828,28,Female,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,24201.45446
+6794881,42345842,18,Female,Other causes,5,Auto,Unknown,Material only,1,Yes,34979.8048
+3366766,47535244,18,Female,Natural causes,5,Auto,No,Material only,1,Yes,4929.671608
+94242984,69065193,39,Female,Other driver error,9,Auto,Unknown,Material and injury,4,No,25176.15751
+94690483,6723724,25,Female,Natural causes,447,Auto,Unknown,Material only,1,Yes,948.4891214
+50906515,1123356,67,Female,Crime,4789,Auto,No,Material only,5,Yes,228.7215283
+89824066,41009394,70,Female,Other causes,3791,Auto,No,Material only,4,Yes,17399.37898
+16286241,42098367,29,Female,Other causes,394,Auto,Unknown,Material and injury,1,No,19119.6185
+39647651,18361978,73,Female,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,2215.719547
+16773361,70459181,38,Female,Other driver error,2778,Auto,No,Material only,1,No,74755.60687
+25108581,91786228,38,Female,Other driver error,546,Auto,No,Material only,1,No,64209.0455
+19333178,16102401,27,Female,Driver error,491,Home,Yes,Material only,1,No,17319.33876
+2322078,51503228,33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,36555.6521
+53522022,30308357,27,Female,Other driver error,4,Auto,No,Material only,1,Yes,21391.3295
+14730852,49428676,72,Female,Other causes,6447,Auto,No,Material and injury,1,Yes,10398.57466
+90504501,39495715,18,Female,Driver error,7,Auto,No,Material only,1,Yes,15505.84702
+37727681,77436411,38,Female,Other driver error,2144,Auto,Unknown,Material only,4,No,39246.87317
+9588683,36632227,52,Female,Other driver error,1396,Auto,Unknown,Material only,1,Yes,1843.372346
+18636027,25823839,64,Female,Driver error,2791,Auto,Unknown,Injury only,1,Yes,32067.79848
+90714815,32180678,27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,53713.53537
+19132019,14275512,38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,42782.46129
+66703144,45653187,28,Female,Natural causes,203,Home,No,Material only,1,Yes,2034.023026
+33643946,88277241,24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,7909.504882
+21550521,68772500,67,Female,Driver error,10991,Auto,Unknown,Material only,1,Yes,3913.983778
+61170397,7946799,40,Female,Other causes,4081,Auto,Unknown,Material and injury,5,No,89448.24641
+56133273,84229777,67,Female,Natural causes,10652,Auto,No,Material only,1,Yes,20413.99283
+86624774,97640137,71,Female,Driver error,6117,Auto,Unknown,Injury only,1,Yes,7727.262888
+57876931,5956033,50,Female,Other driver error,4003,Auto,No,Material and injury,1,Yes,76315.39885
+37305754,99761663,29,Female,Natural causes,801,Auto,No,Material only,1,Yes,9197.701476
+2228834,80562391,22,Female,Crime,103,Auto,Unknown,Material only,1,No,18939.03205
+84029944,51719336,43,Female,Other causes,2509,Home,Unknown,Material only,1,Yes,1019.243534
+79953107,73456835,39,Female,Other driver error,685,Auto,No,Material only,1,No,76820.69879
+52976799,64270813,77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,24629.3477
+18700750,86024944,39,Female,Other driver error,714,Auto,Unknown,Material and injury,2,No,81006.925
+27638017,56075921,45,Female,Other driver error,4031,Auto,No,Material only,4,Yes,12502.22442
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,10749.31351
+65264955,72556809,73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,20292.79837
+88126193,16836323,49,Female,Crime,6550,Auto,No,Material only,4,No,21259.804
+7883163,50817031,44,Female,Crime,3934,Auto,Unknown,Material only,1,No,92385.20115
+71464126,87386746,72,Female,Other causes,4515,Auto,No,Material only,1,Yes,29292.48387
+56330110,26168099,57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,19897.1088
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,6640.283594
+75262517,68724425,54,Female,Natural causes,4124,Auto,No,Material only,3,Yes,48534.71356
+18824405,42882285,43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,190.0936789
+69348631,154557,33,Female,Driver error,3,Auto,No,Injury only,1,No,58974.79887
+2893823,47565478,49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,3433.104613
+25647821,74155265,74,Female,Natural causes,10789,Auto,No,Material only,1,No,5934.692644
+9961723,14293434,19,Female,Other driver error,4,Home,No,Material and injury,1,Yes,92356.63536
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,8415.077551
+44561119,83706741,41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,15941.78112
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,70001.60422
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,20565.0471
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,7911.002561
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,53201.32972
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,6176.136803
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,1892.914257
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,23406.40746
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,94206.39897
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,14561.45004
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,11975.24505
+83092374,86301193,18,Female,Driver error,4,Home,No,Material and injury,1,Yes,21798.14756
+42920871,85984961,25,Female,Natural causes,6,Auto,Unknown,Material only,1,No,12515.42352
+88815908,48477164,18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,5115.372758
+42530425,46129941,29,Female,Crime,1274,Auto,No,Material only,8,Yes,50347.44849
+52976799,64270813,77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,23595.0006
+44561119,83706741,41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,18239.63354
+2893823,47565478,49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,4890.17217
+27638017,56075921,45,Female,Other driver error,4031,Auto,No,Material only,4,Yes,12337.88813
+97484739,21066098,58,Female,Crime,8285,Auto,No,Material only,1,Yes,1898.580385
+95712960,51525336,27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,20227.21265
+86285484,28871739,18,Female,Other causes,4,Auto,No,Material only,1,Yes,7955.148206
+92426104,40971431,30,Female,Other causes,782,Auto,No,Material and injury,1,No,77307.04634
+75728799,71404791,32,Female,Other driver error,1532,Auto,No,Material only,3,No,89290.46678
+34947297,73898057,25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,91668.15547
+2228834,80562391,22,Female,Crime,103,Auto,Unknown,Material only,1,Yes,93902.81394
+51587897,9130038,24,Female,Natural causes,64,Auto,No,Material only,1,Yes,20048.07355
+18824405,42882285,43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,19455.79911
+16286241,42098367,29,Female,Other causes,394,Auto,Unknown,Material and injury,1,Yes,19171.69296
+98646052,65916260,36,Female,Other driver error,2396,Auto,No,Material only,1,No,38381.70207
+38416376,96134505,69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,14646.56725
+97455990,3771583,76,Female,Other causes,5242,Auto,No,Material only,1,No,11841.33521
+74043997,29517588,78,Female,Natural causes,4323,Auto,No,Material only,4,Yes,13490.87493
+21734808,9466593,18,Female,Driver error,7,Auto,No,Material only,1,No,8680.80878
+64659108,42867092,41,Female,Other causes,2353,Auto,No,Injury only,1,Yes,9120.146908
+79783763,34803042,48,Female,Driver error,3300,Auto,No,Material only,1,No,20516.03208
+79708200,72833735,53,Female,Crime,2613,Auto,Unknown,Material only,1,Yes,5989.498176
+74280541,85983291,29,Female,Other causes,2,Auto,No,Material only,3,Yes,71092.79022
+69620654,88878373,78,Female,Other causes,5309,Auto,Unknown,Material only,2,Yes,97474.0633
+57099061,81371138,24,Female,Other causes,426,Auto,No,Material only,1,Yes,16167.26282
+16326173,30199988,56,Female,Other causes,2004,Auto,No,Material only,3,Yes,21716.43688
+30691877,53225913,31,Female,Crime,2273,Auto,No,Material only,2,No,87041.3619
+22476903,40460125,51,Female,Other causes,3070,Auto,No,Material only,1,Yes,19498.68006
+39518274,91180828,28,Female,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,4631.837146
+61950339,21969808,62,Female,Natural causes,3329,Auto,No,Material only,1,Yes,21297.08796
+9129053,85250389,36,Female,Other driver error,323,Auto,Unknown,Injury only,1,No,40787.08953
+39063220,12108789,42,Female,Other causes,1162,Auto,Yes,Material and injury,1,Yes,17940.6395
+35976362,25582668,22,Female,Natural causes,213,Auto,No,Material only,1,No,147.6919104
+76762783,41673539,43,Female,Crime,1552,Auto,Yes,Material and injury,1,Yes,9389.725229
+89824066,41009394,70,Female,Other causes,3791,Auto,No,Material only,4,Yes,11359.37031
+37692448,44632301,29,Female,Other driver error,2221,Auto,Yes,Injury only,1,Yes,18529.75904
+2248378,8201624,55,Female,Natural causes,3197,Auto,No,Material only,4,Yes,11622.35457
+78146904,30197131,77,Female,Other driver error,3460,Auto,No,Injury only,1,Yes,44952.98467
+9124181,19796899,61,Female,Other driver error,3201,Auto,Yes,Material and injury,1,Yes,9729.756842
+70156112,98537509,75,Female,Driver error,3530,Auto,Unknown,Material and injury,3,Yes,44061.04293
+74582054,6448629,73,Female,Other causes,4837,Auto,Unknown,Material only,1,Yes,21856.6768
+63627029,92392817,76,Female,Other driver error,398,Auto,Unknown,Material only,1,Yes,5052.344894
+15267466,80701300,49,Female,Other causes,4008,Auto,Yes,Material only,2,Yes,17848.77838
+80956687,4412055,52,Female,Other causes,2810,Auto,Unknown,Material and injury,4,Yes,17901.63415
+96406656,83887508,54,Female,Crime,954,Auto,No,Material only,3,Yes,51224.40352
+4881066,1300972,66,Female,Crime,7121,Home,No,Material only,1,No,17892.76643
+16468239,86621072,23,Female,Other causes,6,Auto,No,Material only,1,Yes,23525.78189
+7292900,58957713,39,Female,Other causes,4325,Auto,No,Material only,1,No,41735.13597
+99281527,32464636,49,Female,Driver error,2468,Auto,No,Material only,1,Yes,2626.9543
+24709692,69010101,41,Female,Natural causes,2894,Auto,Unknown,Material only,1,No,22966.84459
+1624094,97856694,27,Female,Natural causes,289,Auto,Unknown,Material only,1,Yes,20370.65175
+9075822,25164999,69,Female,Other driver error,6677,Auto,No,Material only,1,Yes,12554.84589
+30272514,12112711,23,Female,Other driver error,3,Auto,No,Material only,1,Yes,41865.90404
+94242984,69065193,39,Female,Other driver error,9,Auto,Unknown,Material and injury,4,No,82268.31396
+6794881,42345842,18,Female,Other causes,5,Auto,Unknown,Material only,1,Yes,22965.06544
+50906515,1123356,67,Female,Crime,4789,Auto,No,Material only,5,Yes,17638.82839
+84029944,51719336,43,Female,Other causes,2509,Home,Unknown,Material only,1,Yes,61220.27916
+94690483,6723724,25,Female,Natural causes,447,Auto,Unknown,Material only,1,Yes,13338.42155
+56133273,84229777,67,Female,Natural causes,10652,Auto,No,Material only,1,Yes,24311.43392
+2980099,28901669,37,Female,Crime,2154,Auto,Yes,Injury only,1,No,94835.08639
+9588683,36632227,52,Female,Other driver error,1396,Auto,Unknown,Material only,1,No,20335.02644
+76523655,95452498,41,Female,Other causes,896,Auto,No,Material only,1,Yes,16530.82252
+61900903,16444738,55,Female,Other causes,2972,Auto,No,Material only,1,Yes,18895.72624
+3366766,47535244,18,Female,Natural causes,5,Auto,No,Material only,1,Yes,15119.45145
+1374365,96431710,19,Female,Crime,8,Auto,No,Material and injury,1,Yes,66328.89931
+3311108,49481916,67,Female,Other causes,3890,Auto,No,Material only,2,Yes,16846.25699
+93818470,69956308,20,Female,Natural causes,6,Auto,Yes,Material only,4,Yes,2245.657031
+27131115,65047878,37,Female,Natural causes,662,Auto,Unknown,Material only,4,No,87472.13569
+18499217,20960664,21,Female,Natural causes,26,Auto,Yes,Injury only,1,No,39955.15331
+2913034,25911554,43,Female,Natural causes,226,Auto,No,Material only,3,Yes,21766.90882
+52223434,59809467,49,Female,Other driver error,2258,Auto,Unknown,Material only,4,Yes,16536.5734
+93028492,62204138,19,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,14071.89008
+61672806,43293983,41,Female,Other causes,2135,Auto,No,Material only,1,No,22217.15831
+17871003,98905793,28,Female,Other driver error,402,Auto,Unknown,Material only,3,Yes,12271.31974
+79219792,84995304,34,Female,Other driver error,426,Home,Unknown,Material only,1,No,40311.5568
+25014071,70955654,52,Female,Crime,2294,Home,No,Material only,1,No,54801.25957
+72074471,73383008,29,Female,Other driver error,619,Auto,Unknown,Injury only,1,Yes,20528.36409
+57560277,92889077,51,Female,Natural causes,2893,Home,No,Material only,5,No,9077.663618
+57876931,5956033,50,Female,Other driver error,4003,Auto,No,Material and injury,1,Yes,4493.101069
+61170397,7946799,40,Female,Other causes,4081,Auto,Unknown,Material and injury,5,No,76834.02452
+9961723,14293434,19,Female,Other driver error,4,Home,No,Material and injury,1,Yes,16620.91494
+79953107,73456835,39,Female,Other driver error,685,Auto,No,Material only,1,No,92287.84888
+37305754,99761663,29,Female,Natural causes,801,Auto,No,Material only,1,No,24822.73978
+69348631,154557,33,Female,Driver error,3,Auto,No,Injury only,1,No,70172.54613
+18700750,86024944,39,Female,Other driver error,714,Auto,Unknown,Material and injury,2,No,79169.90091
+8499165,55593844,43,Female,Other causes,2576,Auto,No,Material only,1,No,1780.951858
+96749077,84571128,41,Female,Natural causes,955,Auto,No,Material only,1,Yes,4312.716428
+74165873,99103685,44,Female,Other driver error,1099,Home,No,Material only,1,Yes,467.735421
+39647651,18361978,73,Female,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,7131.358983
+25108581,91786228,38,Female,Other driver error,546,Auto,No,Material only,1,No,98275.73568
+28636278,31012778,65,Female,Other causes,1196,Auto,No,Material only,5,Yes,11602.86433
+16773361,70459181,38,Female,Other driver error,2778,Auto,No,Material only,1,No,28497.61149
+63246959,33507197,54,Female,Crime,2922,Auto,No,Material only,2,No,46230.29358
+14730852,49428676,72,Female,Other causes,6447,Auto,No,Material and injury,1,Yes,24204.25576
+53522022,30308357,27,Female,Other driver error,4,Auto,No,Material only,1,Yes,24457.42808
+37727681,77436411,38,Female,Other driver error,2144,Auto,Unknown,Material only,4,No,90913.01863
+91210035,48447568,38,Female,Driver error,2987,Auto,No,Material and injury,1,No,79753.23951
+90504501,39495715,18,Female,Driver error,7,Auto,No,Material only,1,Yes,12152.03418
+19132019,14275512,38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,93734.89382
+25647821,74155265,74,Female,Natural causes,10789,Auto,No,Material only,1,Yes,10882.67337
+21550521,68772500,67,Female,Driver error,10991,Auto,Unknown,Material only,1,No,25772.48775
+75262517,68724425,54,Female,Natural causes,4124,Auto,No,Material only,3,No,17905.82131
+71464126,87386746,72,Female,Other causes,4515,Auto,No,Material only,1,Yes,17723.86676
+7883163,50817031,44,Female,Crime,3934,Auto,Unknown,Material only,1,Yes,11953.23926
+86624774,97640137,71,Female,Driver error,6117,Auto,Unknown,Injury only,1,Yes,8941.777568
+30119116,31289360,27,Female,Other driver error,426,Auto,No,Material only,1,Yes,3999.985507
+5567470,14860484,44,Female,Other causes,3210,Auto,Unknown,Injury only,4,Yes,9788.572255
+48559754,45539668,72,Female,Other driver error,4914,Auto,No,Material only,1,Yes,16091.62592
+66578763,2327487,36,Female,Driver error,3094,Auto,No,Material only,5,No,38934.95315
+34488157,32561536,44,Female,Natural causes,891,Auto,No,Material and injury,1,Yes,2830.585066
+65335959,61810954,30,Female,Other driver error,7,Auto,Unknown,Material and injury,1,No,95140.99425
+43899763,37312925,75,Female,Driver error,8260,Auto,Yes,Injury only,1,Yes,19689.48763
+73460630,87993949,77,Female,Other causes,3,Auto,Unknown,Injury only,2,Yes,2313.57479
+82144259,92752865,72,Female,Driver error,2855,Auto,No,Injury only,1,No,44790.24606
+23721504,33987747,23,Female,Driver error,202,Auto,No,Material and injury,1,No,7818.814095
+8405500,46620413,67,Female,Other causes,4551,Auto,Unknown,Material only,1,Yes,16851.74528
+39131766,39587790,68,Female,Other causes,3310,Auto,No,Material only,1,Yes,18663.55381
+8782253,1924109,41,Female,Driver error,4,Auto,No,Material only,1,Yes,17072.41259
+48203523,82832313,51,Female,Other driver error,1798,Auto,Yes,Injury only,1,Yes,14689.26724
+71088680,32155446,70,Female,Driver error,2513,Auto,No,Material and injury,4,Yes,20785.15842
+33038715,31901720,56,Female,Crime,1517,Auto,No,Material only,1,No,4080.896478
+84863978,90116906,78,Female,Driver error,3268,Auto,No,Injury only,6,Yes,9253.201945
+2040094,49270602,73,Female,Other causes,5728,Auto,No,Material only,1,Yes,88535.73419
+712628,74125758,40,Female,Other causes,1897,Auto,Unknown,Injury only,1,No,69394.61452
+76552623,56590042,54,Female,Other causes,1600,Auto,No,Injury only,4,Yes,28770.02008
+95376481,84734050,36,Female,Crime,2363,Auto,Unknown,Material only,1,No,87027.3859
+64731876,43870673,40,Female,Other causes,2293,Auto,Unknown,Material only,1,No,49199.91612
+45189268,24826170,79,Female,Driver error,1793,Auto,No,Material only,1,No,6256.504664
+26716331,3159546,66,Female,Other driver error,3259,Auto,No,Injury only,4,Yes,2080.962524
+7800059,90425966,42,Female,Driver error,1678,Auto,No,Material only,1,Yes,56102.75589
+47783756,8132649,18,Female,Other driver error,3,Auto,No,Material only,1,Yes,73139.6339
+14836805,75252854,39,Female,Other driver error,191,Auto,Yes,Injury only,1,No,67196.99839
+23504103,62797342,42,Female,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,43655.85261
+87229793,44319192,37,Female,Other causes,2750,Auto,Yes,Material and injury,1,No,64649.60277
+30930636,30722342,32,Female,Driver error,748,Home,Yes,Injury only,5,No,96575.28698
+50617945,76965994,44,Female,Crime,2268,Auto,No,Material only,1,Yes,5845.750449
+21972507,83088652,21,Female,Driver error,198,Auto,Unknown,Material only,1,Yes,20019.87108
+95352573,9089663,37,Female,Other driver error,2930,Auto,No,Material and injury,1,No,82589.19531
+73138939,57510487,69,Female,Driver error,5146,Auto,No,Material only,1,Yes,23186.38441
+43973221,83290720,75,Female,Driver error,5708,Auto,Yes,Material and injury,1,Yes,12631.73964
+20332975,51936868,75,Female,Natural causes,4889,Auto,No,Material only,1,Yes,24197.09364
+54192772,61051505,45,Female,Other driver error,532,Auto,Unknown,Material and injury,1,No,19303.87217
+10738822,11278282,35,Female,Natural causes,1410,Auto,No,Material only,1,No,63671.87066
+54764639,35876516,62,Female,Driver error,2199,Auto,No,Material only,1,Yes,7092.903504
+39128289,72896975,33,Female,Other driver error,389,Auto,Unknown,Material and injury,1,No,78592.2469
+18210740,80379865,66,Female,Natural causes,3154,Auto,No,Injury only,3,No,9390.118342
+22215431,64899302,22,Female,Other driver error,349,Auto,No,Material only,1,No,24310.46532
+64573390,85650096,49,Female,Crime,7447,Auto,No,Material only,1,Yes,22512.38513
+17910612,90012444,62,Female,Other driver error,2060,Auto,No,Material only,1,No,232.5321707
+46956597,10665308,34,Female,Natural causes,911,Auto,No,Material only,1,No,42397.84016
+7809917,63916778,55,Female,Other causes,5444,Auto,No,Injury only,1,No,19816.0491
+2181243,51349085,59,Female,Crime,2572,Auto,No,Material only,2,No,24577.71242
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,No,9598.310398
+90714815,32180678,27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,5174.343782
+88126193,16836323,49,Female,Crime,6550,Auto,No,Material only,4,Yes,24672.74129
+66703144,45653187,28,Female,Natural causes,203,Home,No,Material only,1,Yes,21138.56336
+67042203,65950591,48,Female,Driver error,3404,Auto,No,Material only,1,No,19724.55238
+33643946,88277241,24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,18817.83686
+56330110,26168099,57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,77688.24881
+65264955,72556809,73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,18799.77097
+74738945,88449349,31,Female,Other causes,712,Auto,No,Material only,1,No,96907.48369
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,23359.68971
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,60155.34605
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,15313.64064
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,39005.64153
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,10037.28772
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,No,23810.91598
+51685791,90202451,36,Female,Other driver error,2456,Auto,No,Material only,1,No,56082.20634
+16286241,42098367,29,Female,Other causes,394,Auto,Unknown,Material and injury,1,No,6781.020025
+51587897,9130038,24,Female,Natural causes,64,Auto,No,Material only,1,Yes,42098.77979
+92426104,40971431,30,Female,Other causes,782,Auto,No,Material and injury,1,No,45250.92602
+86285484,28871739,18,Female,Other causes,4,Auto,No,Material only,1,Yes,20882.41307
+2228834,80562391,22,Female,Crime,103,Auto,Unknown,Material only,1,Yes,7284.281703
+75728799,71404791,32,Female,Other driver error,1532,Auto,No,Material only,3,No,63485.13764
+18824405,42882285,43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,20375.8647
+34947297,73898057,25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,20462.34064
+38416376,96134505,69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,64665.82272
+98646052,65916260,36,Female,Other driver error,2396,Auto,No,Material only,1,No,29586.01017
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,10842.38459
+19333178,16102401,27,Female,Driver error,491,Home,Yes,Material only,1,Yes,14579.77495
+91841652,16811546,40,Female,Crime,181,Auto,Unknown,Injury only,1,No,88946.64973
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,Yes,22770.14923
+2322078,51503228,33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,63990.82422
+1633198,55180831,69,Female,Other driver error,2847,Auto,No,Material and injury,1,Yes,19944.98379
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,50663.28599
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,Yes,14519.7454
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,Yes,12731.81043
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,No,5081.079851
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,97060.63885
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,1135.792838
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,21626.64176
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,21065.41843
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,55852.44259
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,21256.22721
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,68604.92731
+18636027,25823839,64,Female,Driver error,2791,Auto,Unknown,Injury only,1,No,5532.525789
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,97709.8174
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,Yes,17154.87256
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,720.9965374
+5567470,14860484,44,Male,Other causes,3210,Auto,Unknown,Injury only,4,Yes,15937.93543
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,Yes,19806.52124
+50617945,76965994,44,Male,Crime,2268,Auto,No,Material only,1,No,1914.891341
+75262517,68724425,54,Male,Natural causes,4124,Auto,No,Material only,3,No,7735.403478
+26716331,3159546,66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,17974.74467
+8405500,46620413,67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,12719.35808
+74738945,88449349,31,Male,Other causes,712,Auto,No,Material only,1,No,83965.59512
+65335959,61810954,30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,34572.03858
+73460630,87993949,77,Male,Other causes,3,Auto,Unknown,Injury only,2,No,2970.026692
+39131766,39587790,68,Male,Other causes,3310,Auto,No,Material only,1,Yes,37662.86567
+67042203,65950591,48,Male,Driver error,3404,Auto,No,Material only,1,Yes,6775.298257
+33038715,31901720,56,Male,Crime,1517,Auto,No,Material only,1,Yes,33010.04389
+66578763,2327487,36,Male,Driver error,3094,Auto,No,Material only,5,No,42695.00455
+7883163,50817031,44,Male,Crime,3934,Auto,Unknown,Material only,1,No,24847.36673
+30930636,30722342,32,Male,Driver error,748,Home,Yes,Injury only,5,No,37539.79711
+34488157,32561536,44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,8950.324194
+51685791,90202451,36,Male,Other driver error,2456,Auto,No,Material only,1,No,32406.17835
+2181243,51349085,59,Male,Crime,2572,Auto,No,Material only,2,Yes,24906.49762
+23504103,62797342,42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,14211.30533
+20332975,51936868,75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,17296.37625
+64573390,85650096,49,Male,Crime,7447,Auto,No,Material only,1,Yes,66885.79924
+23721504,33987747,23,Male,Driver error,202,Auto,No,Material and injury,1,Yes,23785.99406
+1633198,55180831,69,Male,Other driver error,2847,Auto,No,Material and injury,1,No,749.4527552
+82144259,92752865,72,Male,Driver error,2855,Auto,No,Injury only,1,No,16592.54385
+76552623,56590042,54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,4798.504369
+39128289,72896975,33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,29982.36985
+64731876,43870673,40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,65745.64263
+712628,74125758,40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,81516.10972
+95376481,84734050,36,Male,Crime,2363,Auto,Unknown,Material only,1,No,61814.23998
+21972507,83088652,21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,15241.18588
+95352573,9089663,37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,53138.62844
+73138939,57510487,69,Male,Driver error,5146,Auto,No,Material only,1,Yes,683.3364252
+88126193,16836323,49,Male,Crime,6550,Auto,No,Material only,4,Yes,57784.19559
+87229793,44319192,37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,62878.58589
+7800059,90425966,42,Male,Driver error,1678,Auto,No,Material only,1,No,19988.88202
+10738822,11278282,35,Male,Natural causes,1410,Auto,No,Material only,1,No,32975.83281
+14836805,75252854,39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,84257.48223
+18210740,80379865,66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,6972.174686
+22215431,64899302,22,Male,Other driver error,349,Auto,No,Material only,1,Yes,5285.571165
+54192772,61051505,45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,8813.039352
+7809917,63916778,55,Male,Other causes,5444,Auto,No,Injury only,1,No,43649.72961
+17910612,90012444,62,Male,Other driver error,2060,Auto,No,Material only,1,No,73798.62347
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,22956.77443
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,23675.02802
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,No,14494.29186
+46956597,10665308,34,Male,Natural causes,911,Auto,No,Material only,1,No,40885.35615
+8782253,1924109,41,Male,Driver error,4,Auto,No,Material only,1,Yes,11512.79636
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,25686.01958
+71088680,32155446,70,Male,Driver error,2513,Auto,No,Material and injury,4,Yes,40785.55102
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,73224.66763
+54764639,35876516,62,Male,Driver error,2199,Auto,No,Material only,1,Yes,17577.82386
+47783756,8132649,18,Male,Other driver error,3,Auto,No,Material only,1,No,21407.84477
+90714815,32180678,27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,23285.70885
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,No,69709.7396
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,Yes,4706.587037
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,No,12904.06412
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,24695.80348
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,No,15775.20866
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,2476.971401
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,14152.09563
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,54276.05235
+2228834,80562391,22,Male,Crime,103,Auto,Unknown,Material only,1,No,21020.80006
+18824405,42882285,43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,12770.4575
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,Yes,23365.46823
+98646052,65916260,36,Male,Other driver error,2396,Auto,No,Material only,1,No,85341.44471
+92426104,40971431,30,Male,Other causes,782,Auto,No,Material and injury,1,No,50057.81681
+75728799,71404791,32,Male,Other driver error,1532,Auto,No,Material only,3,No,25844.28551
+86285484,28871739,18,Male,Other causes,4,Auto,No,Material only,1,No,5435.192945
+34947297,73898057,25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,15613.30625
+51587897,9130038,24,Male,Natural causes,64,Auto,No,Material only,1,No,20817.49083
+16286241,42098367,29,Male,Other causes,394,Auto,Unknown,Material and injury,1,No,75907.99713
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,Yes,10370.61119
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,81777.19221
+43899763,37312925,75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,16634.07945
+38416376,96134505,69,Male,Other driver error,5538,Auto,No,Injury only,1,Yes,31184.69187
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,No,22693.46935
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,35524.13334
+84863978,90116906,78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,7779.827034
+48203523,82832313,51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,8977.125931
+48559754,45539668,72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,22175.15143
+45189268,24826170,79,Male,Driver error,1793,Auto,No,Material only,1,Yes,1115.039048
+30119116,31289360,27,Male,Other driver error,426,Auto,No,Material only,1,No,60681.68894
+19333178,16102401,27,Male,Driver error,491,Home,Yes,Material only,1,Yes,22058.98622
+91210035,48447568,38,Male,Driver error,2987,Auto,No,Material and injury,1,No,97405.42199
+2322078,51503228,33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,53210.88265
+43973221,83290720,75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,14343.47388
+21550521,68772500,67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,7737.135599
+86624774,97640137,71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,47216.52958
+19132019,14275512,38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,86955.44636
+2040094,49270602,73,Male,Other causes,5728,Auto,No,Material only,1,Yes,14557.4669
+25647821,74155265,74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,11869.61758
+56330110,26168099,57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,5884.943005
+18636027,25823839,64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,1040.044034
+90504501,39495715,18,Male,Driver error,7,Auto,No,Material only,1,Yes,19444.93947
+91841652,16811546,40,Male,Crime,181,Auto,Unknown,Injury only,1,No,76303.29239
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,No,17860.18907
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,21143.70762
+91841652,16811546,40,Male,Crime,181,Auto,Unknown,Injury only,1,No,34702.69763
+91210035,48447568,38,Male,Driver error,2987,Auto,No,Material and injury,1,No,73567.71707
+19333178,16102401,27,Male,Driver error,491,Home,Yes,Material only,1,Yes,89626.10218
+86624774,97640137,71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,9133.539323
+2040094,49270602,73,Male,Other causes,5728,Auto,No,Material only,1,No,1614.792186
+19132019,14275512,38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,58827.71251
+90504501,39495715,18,Male,Driver error,7,Auto,No,Material only,1,Yes,92528.47068
+21550521,68772500,67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,921.3978846
+2322078,51503228,33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,41426.75061
+18636027,25823839,64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,80551.91789
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,No,66118.8409
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,No,11263.39967
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,17122.1057
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,Yes,14086.647
+90714815,32180678,27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,10155.97991
+25647821,74155265,74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,21910.0239
+75262517,68724425,54,Male,Natural causes,4124,Auto,No,Material only,3,Yes,62834.02565
+56330110,26168099,57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,3435.39918
+7883163,50817031,44,Male,Crime,3934,Auto,Unknown,Material only,1,No,93139.69486
+88126193,16836323,49,Male,Crime,6550,Auto,No,Material only,4,Yes,19842.52145
+50617945,76965994,44,Male,Crime,2268,Auto,No,Material only,1,Yes,7743.212066
+5567470,14860484,44,Male,Other causes,3210,Auto,Unknown,Injury only,4,No,16912.56582
+45189268,24826170,79,Male,Driver error,1793,Auto,No,Material only,1,Yes,16612.1129
+30119116,31289360,27,Male,Other driver error,426,Auto,No,Material only,1,Yes,21113.94544
+48559754,45539668,72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,24673.87544
+26716331,3159546,66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,7521.516055
+66578763,2327487,36,Male,Driver error,3094,Auto,No,Material only,5,No,38606.27795
+74738945,88449349,31,Male,Other causes,712,Auto,No,Material only,1,No,98196.99196
+67042203,65950591,48,Male,Driver error,3404,Auto,No,Material only,1,Yes,23473.88204
+30930636,30722342,32,Male,Driver error,748,Home,Yes,Injury only,5,No,93498.30436
+32116508,65728108,56,Male,Other causes,3509,Auto,Unknown,Material and injury,3,Yes,19018.24593
+52959888,25709472,24,Male,Other driver error,251,Auto,Unknown,Injury only,1,Yes,19777.98472
+4112041,58402401,36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,77618.18452
+1657284,41265642,52,Male,Crime,72,Auto,No,Material only,1,No,23073.23478
+44581152,86993944,36,Male,Other driver error,4828,Auto,Unknown,Injury only,1,No,43573.93002
+7316148,15556454,33,Male,Crime,2156,Auto,No,Material only,1,No,86947.82477
+35026470,61497833,61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,19435.65782
+54506772,93291407,41,Male,Other driver error,821,Auto,Unknown,Material only,1,No,11543.37985
+11618238,96710523,36,Male,Other causes,102,Home,Yes,Injury only,1,No,82171.11652
+30488859,48145469,25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,13338.64055
+33038715,31901720,56,Male,Crime,1517,Auto,No,Material only,1,Yes,13479.19626
+84863978,90116906,78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,95958.50657
+34488157,32561536,44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,15517.87177
+23721504,33987747,23,Male,Driver error,202,Auto,No,Material and injury,1,No,21656.1725
+43899763,37312925,75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,41116.55258
+73460630,87993949,77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,3492.565399
+65335959,61810954,30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,51992.42491
+48203523,82832313,51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,23942.42678
+8405500,46620413,67,Male,Other causes,4551,Auto,Unknown,Material only,1,No,653.0846938
+39131766,39587790,68,Male,Other causes,3310,Auto,No,Material only,1,Yes,34920.58115
+51685791,90202451,36,Male,Other driver error,2456,Auto,No,Material only,1,No,81324.97923
+64573390,85650096,49,Male,Crime,7447,Auto,No,Material only,1,Yes,11490.50512
+2181243,51349085,59,Male,Crime,2572,Auto,No,Material only,2,Yes,13132.29758
+39128289,72896975,33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,71748.53452
+1633198,55180831,69,Male,Other driver error,2847,Auto,No,Material and injury,1,Yes,3935.318552
+76552623,56590042,54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,12386.68005
+64731876,43870673,40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,83122.34037
+95376481,84734050,36,Male,Crime,2363,Auto,Unknown,Material only,1,No,93719.63552
+82144259,92752865,72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,4044.521049
+712628,74125758,40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,97564.56003
+85585944,9908654,45,Male,Other driver error,2468,Auto,No,Material only,1,No,1313.601305
+69101899,35907845,66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,4125.211733
+35407789,47228798,28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,15917.73511
+1886311,59046302,33,Male,Driver error,1737,Auto,No,Material only,6,No,90494.59643
+50337100,15036122,54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,10824.51458
+84635473,74058124,71,Male,Driver error,5435,Auto,Unknown,Injury only,1,Yes,24661.41303
+99210077,95221640,45,Male,Crime,1470,Auto,No,Material only,1,No,12567.0208
+11951632,91462331,32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,47098.09296
+66546485,83884401,56,Male,Driver error,1544,Auto,No,Material only,1,No,15193.70114
+87452238,88191021,64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,13530.2919
+87229793,44319192,37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,45092.31544
+23504103,62797342,42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,20339.74395
+73138939,57510487,69,Male,Driver error,5146,Auto,No,Material only,1,Yes,16782.0107
+43973221,83290720,75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,23869.70915
+95352573,9089663,37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,99499.74572
+20332975,51936868,75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,10220.73936
+21972507,83088652,21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,23722.35643
+14836805,75252854,39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,40344.96676
+54192772,61051505,45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,1400.661339
+47783756,8132649,18,Male,Other driver error,3,Auto,No,Material only,1,No,21848.37689
+58245818,47091036,64,Male,Driver error,3801,Home,No,Injury only,1,Yes,21742.00304
+3673097,54642094,79,Male,Driver error,5075,Auto,No,Injury only,1,No,20556.71275
+83744906,48277275,44,Male,Other driver error,4191,Auto,No,Material and injury,1,No,10884.8629
+22639991,53333796,46,Male,Other causes,5460,Auto,Yes,Material and injury,1,No,13771.46519
+73894966,28307541,36,Male,Driver error,420,Auto,No,Material only,1,No,97695.41513
+5481268,76422302,73,Male,Crime,1475,Home,No,Material only,1,Yes,2447.542827
+13167216,27205554,40,Male,Driver error,441,Auto,No,Injury only,1,No,47457.46091
+13578273,34790013,49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,18270.10042
+99427250,91546921,76,Male,Crime,4843,Home,No,Material only,1,Yes,17605.08347
+70399158,26489135,70,Male,Driver error,1859,Auto,No,Material only,1,Yes,16393.21891
+22215431,64899302,22,Male,Other driver error,349,Auto,No,Material only,1,Yes,17073.37903
+18210740,80379865,66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,22753.49071
+10738822,11278282,35,Male,Natural causes,1410,Auto,No,Material only,1,No,57090.92391
+46956597,10665308,34,Male,Natural causes,911,Auto,No,Material only,1,No,51521.35778
+8782253,1924109,41,Male,Driver error,4,Auto,No,Material only,1,Yes,13453.46471
+71088680,32155446,70,Male,Driver error,2513,Auto,No,Material and injury,4,Yes,11359.8774
+7800059,90425966,42,Male,Driver error,1678,Auto,No,Material only,1,Yes,60515.43224
+7809917,63916778,55,Male,Other causes,5444,Auto,No,Injury only,1,No,4659.777646
+17910612,90012444,62,Male,Other driver error,2060,Auto,No,Material only,1,No,43313.87698
+54764639,35876516,62,Male,Driver error,2199,Auto,No,Material only,1,No,8164.192139
+35489765,63240241,25,Male,Natural causes,8,Auto,No,Material only,1,Yes,23196.39525
+28564401,51583214,63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,23521.95216
+12548447,1407979,28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,1470.660729
+43908336,32813689,67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,15593.7677
+12878692,18401412,73,Male,Driver error,4196,Auto,No,Material only,4,Yes,20876.895
+27026412,73486606,55,Male,Natural causes,622,Auto,No,Material only,3,Yes,7348.689148
+22890252,19269962,47,Male,Crime,2335,Auto,No,Material only,1,Yes,8982.549825
+53780662,21240703,26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,43718.07105
+72738047,35875366,78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,586.9554572
+24050443,21831191,36,Male,Other driver error,2116,Auto,No,Injury only,3,No,58774.40766
+1657284,41265642,52,Male,Crime,72,Auto,No,Material only,1,Yes,13824.80286
+4112041,58402401,36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,91990.24322
+12548447,1407979,28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,18533.16043
+53780662,21240703,26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,3711.673484
+35489765,63240241,25,Female,Natural causes,8,Auto,No,Material only,1,Yes,19609.43989
+27026412,73486606,55,Female,Natural causes,622,Auto,No,Material only,3,No,13574.66414
+12878692,18401412,73,Female,Driver error,4196,Auto,No,Material only,4,Yes,80041.4605
+43908336,32813689,67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,84460.16487
+22890252,19269962,47,Female,Crime,2335,Auto,No,Material only,1,Yes,13827.26724
+24050443,21831191,36,Female,Other driver error,2116,Auto,No,Injury only,3,No,91424.5078
+28564401,51583214,63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,20527.54208
+72738047,35875366,78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,16073.23095
+38416376,96134505,69,Male,Other driver error,5538,Auto,No,Injury only,1,No,17187.14225
+34947297,73898057,25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,59171.70365
+75728799,71404791,32,Male,Other driver error,1532,Auto,No,Material only,3,No,79647.74885
+98646052,65916260,36,Male,Other driver error,2396,Auto,No,Material only,1,No,99007.57782
+86285484,28871739,18,Male,Other causes,4,Auto,No,Material only,1,Yes,18843.3073
+92426104,40971431,30,Male,Other causes,782,Auto,No,Material and injury,1,No,88897.33184
+16286241,42098367,29,Male,Other causes,394,Auto,Unknown,Material and injury,1,Yes,6627.152722
+51587897,9130038,24,Male,Natural causes,64,Auto,No,Material only,1,Yes,88625.72595
+35026470,61497833,61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,1813.133314
+54506772,93291407,41,Male,Other driver error,821,Auto,Unknown,Material only,1,Yes,15247.79646
+57099061,81371138,24,Male,Other causes,426,Auto,No,Material only,1,No,4607.856948
+2228834,80562391,22,Male,Crime,103,Auto,Unknown,Material only,1,Yes,15111.39937
+11618238,96710523,36,Male,Other causes,102,Home,Yes,Injury only,1,No,67236.55234
+16326173,30199988,56,Male,Other causes,2004,Auto,No,Material only,3,Yes,13695.62372
+74280541,85983291,29,Male,Other causes,2,Auto,No,Material only,3,Yes,33780.00878
+18824405,42882285,43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,10878.50803
+30119116,31289360,27,Male,Other driver error,426,Auto,No,Material only,1,Yes,4456.28644
+52959888,25709472,24,Male,Other driver error,251,Auto,Unknown,Injury only,1,No,7779.209222
+64659108,42867092,41,Male,Other causes,2353,Auto,No,Injury only,1,No,22935.4464
+79708200,72833735,53,Male,Crime,2613,Auto,Unknown,Material only,1,No,79768.9537
+30488859,48145469,25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,6884.123907
+97455990,3771583,76,Male,Other causes,5242,Auto,No,Material only,1,No,23328.37673
+45189268,24826170,79,Male,Driver error,1793,Auto,No,Material only,1,Yes,1948.716507
+74043997,29517588,78,Male,Natural causes,4323,Auto,No,Material only,4,Yes,27469.7134
+21734808,9466593,18,Male,Driver error,7,Auto,No,Material only,1,Yes,14373.64247
+74582054,6448629,73,Male,Other causes,4837,Auto,Unknown,Material only,1,Yes,20642.19862
+78146904,30197131,77,Male,Other driver error,3460,Auto,No,Injury only,1,No,47625.09762
+2248378,8201624,55,Male,Natural causes,3197,Auto,No,Material only,4,No,19904.29552
+69620654,88878373,78,Male,Other causes,5309,Auto,Unknown,Material only,2,Yes,12280.26076
+70156112,98537509,75,Male,Driver error,3530,Auto,Unknown,Material and injury,3,No,639.4461348
+79783763,34803042,48,Male,Driver error,3300,Auto,No,Material only,1,Yes,10627.61116
+1374365,96431710,19,Male,Crime,8,Auto,No,Material and injury,1,Yes,61099.39711
+3311108,49481916,67,Male,Other causes,3890,Auto,No,Material only,2,Yes,7308.099545
+15267466,80701300,49,Male,Other causes,4008,Auto,Yes,Material only,2,Yes,90731.95878
+3366766,47535244,18,Male,Natural causes,5,Auto,No,Material only,1,Yes,4555.144421
+94690483,6723724,25,Male,Natural causes,447,Auto,Unknown,Material only,1,Yes,24138.2163
+84029944,51719336,43,Male,Other causes,2509,Home,Unknown,Material only,1,Yes,88374.34733
+80956687,4412055,52,Male,Other causes,2810,Auto,Unknown,Material and injury,4,No,5321.718686
+61900903,16444738,55,Male,Other causes,2972,Auto,No,Material only,1,Yes,20407.58562
+76523655,95452498,41,Male,Other causes,896,Auto,No,Material only,1,No,63287.29737
+4881066,1300972,66,Male,Crime,7121,Home,No,Material only,1,Yes,22007.37221
+25014071,70955654,52,Male,Crime,2294,Home,No,Material only,1,Yes,24945.09344
+63627029,92392817,76,Male,Other driver error,398,Auto,Unknown,Material only,1,Yes,86810.12713
+9124181,19796899,61,Male,Other driver error,3201,Auto,Yes,Material and injury,1,Yes,13966.09482
+56133273,84229777,67,Male,Natural causes,10652,Auto,No,Material only,1,Yes,24975.69452
+96406656,83887508,54,Male,Crime,954,Auto,No,Material only,3,Yes,8397.672364
+2980099,28901669,37,Male,Crime,2154,Auto,Yes,Injury only,1,No,90283.80194
+9588683,36632227,52,Male,Other driver error,1396,Auto,Unknown,Material only,1,Yes,13490.47202
+18499217,20960664,21,Male,Natural causes,26,Auto,Yes,Injury only,1,Yes,9969.309395
+2913034,25911554,43,Male,Natural causes,226,Auto,No,Material only,3,Yes,233.0523695
+33643946,88277241,24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,574.7069822
+61672806,43293983,41,Male,Other causes,2135,Auto,No,Material only,1,No,6054.847207
+93818470,69956308,20,Male,Natural causes,6,Auto,Yes,Material only,4,Yes,10768.79186
+71464126,87386746,72,Male,Other causes,4515,Auto,No,Material only,1,Yes,16800.59046
+65264955,72556809,73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,23843.1953
+66703144,45653187,28,Male,Natural causes,203,Home,No,Material only,1,Yes,2846.164781
+27131115,65047878,37,Male,Natural causes,662,Auto,Unknown,Material only,4,No,87264.59539
+52223434,59809467,49,Male,Other driver error,2258,Auto,Unknown,Material only,4,Yes,14401.84384
