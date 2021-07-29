@@ -1,0 +1,151 @@
+text,label
+"I need to change my billing and shipping info?",Billing
+"make an account change",Billing
+"I need to update my account, can you help?",Billing
+"how can I change my account details",Billing
+"user profile update",Billing
+"can you change my profile to a new address",Billing
+"can you chage my profile to have my latest address",Billing
+"my billing address is same as shipping, please update",Billing
+"how do I update account settings",Billing
+"Can I change my credit card",Billing
+"I see two charges on my account",Billing
+"why did my order get denied",Billing
+"where is the security code on my credit card",Billing
+"my billing info is wrong",Billing
+"can you help me update my billing information",Billing
+"my billing info is out of date",Billing
+"can you tell me the cost of the item I purchased",Billing
+"how much did you charge me",Billing
+"why was I charged that much",Billing
+"how can I switch billing preferences",Billing
+"where do I update my account information for payments",Billing
+"how do I change payment options",Billing
+"How can I set up a corporate account?",Billing
+"Will I be charged tax on the order?",Billing
+"i forgot my password",Password Help
+"i want to reset my password",Password Help
+"i cant remember my login",Password Help
+"My password doesn't work",Password Help
+"can't login",Password Help
+"unable to login",Password Help
+"can I reset my password",Password Help
+"where do I got to find my password",Password Help
+"I forgot my credentials",Password Help
+"I can't login",Password Help
+"please reset me",Password Help
+"whats my PW",Password Help
+"do you have a way to reset my PW remotely?",Password Help
+"I cant figure out my user name /passoword combo",Password Help
+"I hit the limits on my password",Password Help
+"my account is locked",Password Help
+"my password is locked?",Password Help
+"I cant sing in?",Password Help
+"how do I log in?",Password Help
+"can I change privacy settings",Password Help
+"i forgot my username",Password Help
+"can you help me reset my password",Password Help
+"i can't remember my login",Password Help
+"login problems",Password Help
+"login not working for me",Password Help
+"need to reset my password",Password Help
+"when will my order arrive?",Shipping Info
+"I'm still waiting for my package",Shipping Info
+"track order",Shipping Info
+"i'd like to track my package",Shipping Info
+"i'd like to check the status of my order?",Shipping Info
+"i want to know if my order has shipped",Shipping Info
+"my package hasn't arrive",Shipping Info
+"when will it come by?",Shipping Info
+"do you know if my package shipped",Shipping Info
+"has my order been fulfilled",Shipping Info
+"when can I see the order status for my purchase?",Shipping Info
+"what is my shipping status?",Shipping Info
+"do you have my tracking # handy?",Shipping Info
+"my shoes haven't arrived, where are they?",Shipping Info
+"my order says in progress, what does that mean?",Shipping Info
+"is there a expected delivery date for my latest order",Shipping Info
+"when should I receive my items by",Shipping Info
+"do you drop off the shoes at my door or do I need to sign?",Shipping Info
+"can I check on the latest location of my order?",Shipping Info
+"why is taking so long to get me my shoes? Are they close?",Shipping Info
+"Should I receive my shoes by this Tuesday?",Shipping Info
+"I need my order to come by Thursday is that possible",Shipping Info
+"can I get an update on my order status?",Shipping Info
+"who is the shipper of my products? I can't find the tracking info",Shipping Info
+"are those shoes being shipped overnight?",Shipping Info
+"Do you do overnight shipping on all orders",Shipping Info
+"what is the timeline to receive my order?",Shipping Info
+"what is the shipping method",Shipping Info
+"Has my order been sent?",Shipping Info
+"Was my order delivered?",Shipping Info
+"oops I made the wrong order quantity, can I update it?",Order Change
+"is it too late to update my shipping address",Order Change
+"is my order still pending",Order Change
+"I just bought online but need to change quanity, can you help",Order Change
+"I misspelled the location, can you help me update this?",Order Change
+"do you know if my order is fulfilled yet? I want to make a change",Order Change
+"can I change a pending order",Order Change
+"can I update my delivery to overnight?",Order Change
+"where can I see my pending purchases",Order Change
+"I'd like to change the credit card on my last purchase",Order Change
+"my order hasn't shipped, can I make an order change?",Order Change
+"I need to edit a purchase",Order Change
+"what is the best way to quickly make a change on an existing purchase",Order Change
+"shoot, I messed my last order up, can you help me edit it?",Order Change
+"my order is still pending, can I change my address",Order Change
+"my purchase hasn't shipped, can I update my address?",Order Change
+"You haven't shipped my order, can I add to it?",Order Change
+"if it is still not processed and shipped, how can I make a change",Order Change
+"I need to fix a mistake on my latest order",Order Change
+"help! I need to edit my purchase from 5 minutes ago",Order Change
+"if you have a second, can you change something on my recent purchase?",Order Change
+"I want to remove an item from my order",Order Change
+"I need to cancel my order",Order Change
+"Can I change the shipping address on this order? I'll be out of town when it arrives",Order Change
+"I want to add something to my order",Order Change
+"Can you take backordered items off my order?",Order Change
+"Do you have any new products available?",Sales Opportunity
+"when is the spring catalog come up out?",Sales Opportunity
+"is the summer options available?",Sales Opportunity
+"can I buy last year's jersey anymore",Sales Opportunity
+"do you have a shirt that goes with my shorts?",Sales Opportunity
+"do you make your product in different sizes",Sales Opportunity
+"can I buy another pair, these are great?",Sales Opportunity
+"do you have any recommended products",Sales Opportunity
+"I like soccer, any new kits available?",Sales Opportunity
+"that is it, unless you have any recommended products",Sales Opportunity
+"thanks for help, do you have any more products in stock I would like",Sales Opportunity
+"just got my last order yesterday and I want to buy a pair for my friend, but its sold out, any other options?",Sales Opportunity
+"I don't like my shoes, can you recommend any others in that color?",Sales Opportunity
+"I am looking for a more formal shoe, do you have any options?",Sales Opportunity
+"I'm all set, found my order, now I want to buy a hat",Sales Opportunity
+"need a new hat to go with these shoes",Sales Opportunity
+"do you have any matching products",Sales Opportunity
+"that's it, but would like to find out what other gear you have that's similar",Sales Opportunity
+"awesome, any other recommendations",Sales Opportunity
+"do you know where I can find my favorite team's gear?",Sales Opportunity
+"Do you have any more barca gear",Sales Opportunity
+"Do you have any more real madrid kits?",Sales Opportunity
+"Where is the nearest location for me?",Sales Opportunity
+"Is there a store close by",Sales Opportunity
+"how far is the nearest retail outlet",Sales Opportunity
+"find me a store",Sales Opportunity
+"Wher can I buy your gear?",Sales Opportunity
+"Is there a store near me?",Sales Opportunity
+"where are you located in sf?",Sales Opportunity
+"is there spot in Miami?",Sales Opportunity
+"does your company have a physical store here?",Sales Opportunity
+"I'd like to return my purchase to a retail store, is one nearby?",Sales Opportunity
+"Can I try my gear on someplace close",Sales Opportunity
+"is there a store near by",Sales Opportunity
+"where are you located?",Sales Opportunity
+"am I close to you?",Sales Opportunity
+"please find me a store",Sales Opportunity
+"get me the nearest store?",Sales Opportunity
+"I'd like to shop nearby",Sales Opportunity
+"where can I get more gear?",Sales Opportunity
+"do you have a store here",Sales Opportunity
+"do you know where a store is around my location",Sales Opportunity
+"what store is closest to me?",Sales Opportunity
+"do you have a store near my home address",Sales Opportunity
